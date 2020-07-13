@@ -1,0 +1,21 @@
+{
+    "name": "fivem-and-vrpex-by--yume",
+    "displayName": "Fivem and vRPex By: Yume#0001",
+    "description": "",
+    "publisher": "Liru",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "lua",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
