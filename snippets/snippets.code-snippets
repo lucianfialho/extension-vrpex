@@ -533,5 +533,12 @@
 			"vRP.tryDeposit(user_id,amount)"
 		],
 		"description": "try a deposit"
-	}
+	},
+	"Json encode with ident": {
+		"prefix": "json.encode",
+		"body": [
+			"json.encode({}, {indent = true})"
+		],
+		"description": "Dump table with identation"
+	},
 }
